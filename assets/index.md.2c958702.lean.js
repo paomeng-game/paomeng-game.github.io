@@ -38,7 +38,7 @@ const w = {
 e = e(),
 _(),
 e)
-  , P = m('<section id="hero" data-v-9e9e3e87><h1 class="tagline" data-v-9e9e3e87><span class="accent" data-v-9e9e3e87>渐进式</span><br data-v-9e9e3e87>JavaScript 框架 </h1><p class="description" data-v-9e9e3e87> 易学易用，性能出色，适用场景丰富的 Web 前端框架。 </p><p class="actions" data-v-9e9e3e87><a class="get-started" href="/guide/introduction.html" data-v-9e9e3e87> 快速上手 <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24" data-v-9e9e3e87><path d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z" data-v-9e9e3e87></path></svg></a><a class="setup" href="/guide/quick-start.html" data-v-9e9e3e87>安装</a></p></section>', 1)
+  , P = m('<section id="hero" data-v-9e9e3e87><h1 class="tagline" data-v-9e9e3e87><span class="accent" data-v-9e9e3e87>泡萌游戏</span><br data-v-9e9e3e87>热爱泡泡系列的初创团队 </h1><p class="description" data-v-9e9e3e87> 泡泡战士官方手游，时隔十年，由我们接手运营，泡泡战士冒险内测火热招募中！ </p><p class="actions" data-v-9e9e3e87><a class="get-started" href="/guide/introduction.html" data-v-9e9e3e87> 参与测试 <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24" data-v-9e9e3e87><path d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z" data-v-9e9e3e87></path></svg></a><a class="setup" href="/guide/quick-start.html" data-v-9e9e3e87>了解我们</a></p></section>', 1)
   , V = {
     id: "special-sponsor"
 }
@@ -63,11 +63,11 @@ e)
     class: "vt-box-container"
 }, [l("div", {
     class: "vt-box"
-}, [l("h2", null, "易学易用"), l("p", null, " 基于标准 HTML、CSS 和 JavaScript 构建，提供容易上手的 API 和一流的文档。 ")]), l("div", {
+}, [l("h2", null, "我们是谁"), l("p", null, "我们是有技术专长的泡泡系列爱好者组成的初创团队，负责泡泡战士冒险的开发、维护和更新。")]), l("div", {
     class: "vt-box"
-}, [l("h2", null, "性能出色"), l("p", null, "经过编译器优化、完全响应式的渲染系统，几乎不需要手动优化。")]), l("div", {
+}, [l("h2", null, "团队宗旨"), l("p", null, "不以盈利为目的，利用我们的专长，做大家喜爱的游戏。")]), l("div", {
     class: "vt-box"
-}, [l("h2", null, "灵活多变"), l("p", null, " 丰富的、可渐进式集成的生态系统，可以根据应用规模在库和框架间切换自如。 ")])], -1)))
+}, [l("h2", null, "我们希望"), l("p", null, " 泡泡系列的同好们和我们携手，共同打造泡泡系列民间精品游戏 ")])], -1)))
   , H = {
     id: "sponsors"
 }
@@ -115,7 +115,7 @@ e)
         placement: "landing"
     })]), r(M)], 64)))
 }), [["__scopeId", "data-v-9e9e3e87"]])
-  , E = JSON.parse('{"title":"Vue.js - 渐进式 JavaScript 框架","description":"","frontmatter":{"page":true,"title":"Vue.js - 渐进式 JavaScript 框架"},"headers":[],"relativePath":"index.md","filePath":"index.md"}')
+  , E = JSON.parse('{"title":"泡萌游戏 - 热爱泡泡系列的初创团队","description":"","frontmatter":{"page":true,"title":"泡萌游戏 - 热爱泡泡系列的初创团队"},"headers":[],"relativePath":"index.md","filePath":"index.md"}')
   , F = {
     name: "index.md"
 }

@@ -406,7 +406,7 @@ e)
 })], -1)))
   , Ba = Ma((()=>t("span", {
     class: "text"
-}, "Vue.js", -1)));
+}, "泡萌游戏", -1)));
 const za = e(Ca, [["render", function(e, t) {
     return a(),
     n("a", Na, [P(e.$slots, "navbar-title", {}, (()=>[Ia, Ba]), !0)])
