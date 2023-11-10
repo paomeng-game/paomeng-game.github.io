@@ -5734,7 +5734,7 @@ body {
     transition: color .5s
 }
 
-.vt-doc a[href^="https://play.vuejs.org"]:before {
+.vt-doc a[href^="h.orgttps://play.vuejs"]:before {
     content: "▶";
     width: 20px;
     height: 20px;

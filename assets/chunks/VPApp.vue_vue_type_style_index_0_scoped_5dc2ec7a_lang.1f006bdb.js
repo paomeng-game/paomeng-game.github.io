@@ -39,7 +39,7 @@ function h(e) {
     v.test(t))
         return e;
     var t;
-    const {pathname: n, search: o, hash: r} = new URL(e,"http://vuejs.org");
+    const {pathname: n, search: o, hash: r} = new URL(e,"https://paomeng-game.github.io");
     return i(n.endsWith("/") || n.endsWith(".html") ? e : `${n.replace(/(\.md)?$/, ".html")}${o}${r}`)
 }
 const m = "undefined" != typeof window

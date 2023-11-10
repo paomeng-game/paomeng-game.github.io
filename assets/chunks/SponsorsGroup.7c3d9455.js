@@ -1,7 +1,7 @@
 import {O as e, f as a, F as s, g as n, y as t, S as r, B as o, d as i, W as c, L as l, V as p, q as m, _ as u} from "./framework.0ed1d5d2.js";
 const g = e()
   , f = e(!1)
-  , d = "https://sponsors.vuejs.org"
+  , d = "https://paomeng-game.github.io/sponsors"
   , v = async()=>{
     f.value || (f.value = !0,
     g.value = await (await fetch(`${d}/data.json`)).json())
