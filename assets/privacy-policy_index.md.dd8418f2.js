@@ -1,5 +1,5 @@
 import {_ as e, y as t, S as a, M as r} from "./chunks/framework.0ed1d5d2.js";
-const i = JSON.parse('{"title":"隐私政策","description":"","frontmatter":{},"headers":[{"level":2,"title":"我们收集您的何种信息？","slug":"whats-message-doeswe-collect","link":"#whats-message-doeswe-collect","children":[]},{"level":2,"title":"我们利用您的个人信息作何用途？","slug":"how-we-use-your-personal-secret","link":"#how-we-use-your-personal-secret","children":[]},{"level":2,"title":"我们用到的第三方SDK？","slug":"whats-sdk-do-we-use","link":"#whats-sdk-do-we-use","children":[]},"relativePath":"privacy-policy/index.md","filePath":"privacy-policy/index.md"}')
+const i = JSON.parse('{"title":"隐私政策","description":"","frontmatter":{},"headers":[{"level":2,"title":"我们收集您的何种信息？","slug":"whats-message-doeswe-collect","link":"#whats-message-doeswe-collect","children":[]},{"level":2,"title":"我们利用您的个人信息作何用途？","slug":"how-we-use-your-personal-secret","link":"#how-we-use-your-personal-secret","children":[]},{"level":2,"title":"我们用到的第三方SDK？","slug":"whats-sdk-do-we-use","link":"#whats-sdk-do-we-use","children":[]}],"relativePath":"privacy-policy/index.md","filePath":"privacy-policy/index.md"}')
   , u = {
     name: "privacy-policy/index.md"
 }
