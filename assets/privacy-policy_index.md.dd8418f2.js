@@ -94,9 +94,9 @@ e)
         a("div", $, ' 没有匹配到 API "' + x(f.value) + '" ', 1))]))
     }
 }), [["__scopeId", "data-v-10e2fb76"]])
-  , I = JSON.parse('{"title":"API 参考","description":"","frontmatter":{"title":"API 参考","sidebar":false,"page":true,"footer":false},"headers":[],"relativePath":"api/index.md","filePath":"api/index.md"}')
+  , I = JSON.parse('{"title":"API 参考","description":"","frontmatter":{"title":"API 参考","sidebar":false,"page":true,"footer":false},"headers":[],"relativePath":"privacy-policy/index.md","filePath":"privacy-policy/index.md"}')
   , O = {
-    name: "api/index.md"
+    name: "privacy-policy/index.md"
 }
   , M = Object.assign(O, {
     setup: e=>(e,t)=>(n(),

@@ -38,7 +38,7 @@ const w = {
 e = e(),
 _(),
 e)
-  , P = m('<section id="hero" data-v-9e9e3e87><h1 class="tagline" data-v-9e9e3e87><span class="accent" data-v-9e9e3e87>泡萌游戏</span><br data-v-9e9e3e87>热爱泡泡系列的初创团队 </h1><p class="description" data-v-9e9e3e87> 泡泡战士官方手游，时隔十年，由我们接手运营，泡泡战士冒险内测火热招募中！ </p><p class="actions" data-v-9e9e3e87><a class="get-started" href="/guide/introduction.html" data-v-9e9e3e87> 参与测试 <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24" data-v-9e9e3e87><path d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z" data-v-9e9e3e87></path></svg></a><a class="setup" href="/guide/quick-start.html" data-v-9e9e3e87>了解我们</a></p></section>', 1)
+  , P = m('<section id="hero" data-v-9e9e3e87><h1 class="tagline" data-v-9e9e3e87><span class="accent" data-v-9e9e3e87>泡萌游戏</span><br data-v-9e9e3e87>热爱泡泡系列的初创团队 </h1><p class="description" data-v-9e9e3e87> 泡泡战士官方手游，时隔十年，由我们接手运营，泡泡战士冒险内测火热招募中！ </p><p class="actions" data-v-9e9e3e87><a class="get-started" href="/guide/joinourtest.html" data-v-9e9e3e87> 参与测试 <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24" data-v-9e9e3e87><path d="M13.025 1l-2.847 2.828 6.176 6.176h-16.354v3.992h16.354l-6.176 6.176 2.847 2.828 10.975-11z" data-v-9e9e3e87></path></svg></a><a class="setup" href="/guide/quick-start.html" data-v-9e9e3e87>了解我们</a></p></section>', 1)
   , V = {
     id: "special-sponsor"
 }
