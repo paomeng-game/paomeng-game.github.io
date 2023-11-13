@@ -1962,7 +1962,7 @@ const os = {
     setup: e=>(S((()=>{
         const e = document.createElement("script");
         e.async = !0,
-        e.src = "https://cdn.wwads.cn/js/makemoney.js",
+        e.src = "https://paomeng-game.github.io/js/makemoney.js",
         document.querySelector(".wwads-container").appendChild(e)
     }
     )),
